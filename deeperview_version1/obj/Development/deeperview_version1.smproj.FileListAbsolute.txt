@@ -1,0 +1,6 @@
+C:\Users\mark.hornsby\Documents\Visual Studio 2015\projects\deeperview_version1\deeperview_version1\bin\Model_1.asdatabase
+C:\Users\mark.hornsby\Documents\Visual Studio 2015\projects\deeperview_version1\deeperview_version1\bin\Model_1.deploymenttargets
+C:\Users\mark.hornsby\Documents\Visual Studio 2015\projects\deeperview_version1\deeperview_version1\bin\Model_1.deploymentoptions
+C:\Users\mark.hornsby\Documents\Visual Studio 2015\projects\deeperview_version1\deeperview_version1\obj\Development\Model_1.asdatabase
+C:\Users\mark.hornsby\Documents\Visual Studio 2015\projects\deeperview_version1\deeperview_version1\obj\Development\Model_1.deploymentoptions
+C:\Users\mark.hornsby\Documents\Visual Studio 2015\projects\deeperview_version1\deeperview_version1\obj\Development\Model_1.deploymenttargets
